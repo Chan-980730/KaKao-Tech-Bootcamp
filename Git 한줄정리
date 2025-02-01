@@ -18,7 +18,7 @@
 : branch는 commit의 복사본이고 diff는 코드 자체가 바뀐 것에 대한 차이를 아는 것이고 status는 상태를 아는 것이다.
 
 6. Git 명령어 - 미니퀘스트
-: GitHub에서 Readme.md파일 제작
+: GitHub에서 Readme.md파일 만들어서 자신의 프로필 제작
 
 7. Git 명령어 기초 - 총정리
 
@@ -54,6 +54,19 @@
 16. GitHub 미니퀘스트 - 체계적인 QA 템플릿 활용
 
 
+
+단어 / 뜻 / 비고
+분산 버전 관리 시스템 : 네트워크에 의존하지 않고 로컬 시스템에 복제하여 버전을 관리함
+commit : 파일에 대하여 변경을 한 후 변경을 확정하는 명령어
+working directory : 현재 작업하고 있는 공간
+repository : 저장소 (폴더)
+branch : 
+organization
+origin
+upstream
+merge
+fork
+pull request
 
 
 
