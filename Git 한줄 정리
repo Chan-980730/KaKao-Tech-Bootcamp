@@ -66,7 +66,7 @@ origin : 현재 작업 중인 저장소
 upstream : origin이 fork된 저장소
 merge : 병합
 fork : 한 git 저장소에서 다른 저장소로 코드를 복사해오는 것
-pull request : 
+pull request : 어떤 부분을 수정했는지 확인할 수 있게 해주는 것
 
 
 
