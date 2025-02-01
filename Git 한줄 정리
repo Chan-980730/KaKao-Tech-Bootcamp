@@ -60,13 +60,13 @@
 commit : 파일에 대하여 변경을 한 후 변경을 확정하는 명령어
 working directory : 현재 작업하고 있는 공간
 repository : 저장소 (폴더)
-branch : 
-organization
-origin
-upstream
-merge
-fork
-pull request
+branch : 다른 버전을 관리하기 위해 사용하는 독립적인 작업 흐름(나뭇가지를 연상시킴)
+organization : 조직
+origin : 현재 작업 중인 저장소
+upstream : origin이 fork된 저장소
+merge : 병합
+fork : 한 git 저장소에서 다른 저장소로 코드를 복사해오는 것
+pull request : 
 
 
 
